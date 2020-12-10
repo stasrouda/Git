@@ -4,4 +4,5 @@ __pycache__/
 *.py[cod]
 docker-compose.yaml
 log/
+first/
 resources/products.json
